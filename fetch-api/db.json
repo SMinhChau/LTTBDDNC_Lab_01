@@ -1,0 +1,19 @@
+{
+    "course": [
+      {
+        "id": 1,
+        "name": "JavaScrip",
+        "description": "Kien thuc co"
+      },
+      {
+        "id": 2,
+        "name": "Node Js",
+        "description": "Tim hieu"
+      },
+      {
+        "id": 3,
+        "name": "Làm việc với Terminal & Ubuntu",
+        "description": "Sở hữu một Terminal hiện đại"
+      }
+    ]
+  }
